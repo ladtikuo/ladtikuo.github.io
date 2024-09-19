@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ladtikuo.github.io/sitemap/sitemap.txt
